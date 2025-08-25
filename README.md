@@ -1,4 +1,4 @@
-# AULA 2
+# IABD TURMA B 
 # Tecnólogo em Análise e Desenvolvimento de Sistemas da Faculdade SENAI Roberto Mange Campinas.
 
-NODE JS e JavaScipt
+Aulas do curso de Inteligência Artificial e Big Data ministrada pelo Prof.Me.Daniel Vieira.
